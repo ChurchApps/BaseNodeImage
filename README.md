@@ -1,2 +1,2 @@
 # BaseNodeImage
-A Base Node 12 image with git installed in it
+An empty base Node 12 image with git installed in it
